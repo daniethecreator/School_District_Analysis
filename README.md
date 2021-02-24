@@ -18,7 +18,7 @@ Revised District Summary:
 ![image_name](Resources/school_summary_sorted_challenge.png)
 
 ### How is the school summary affected?
-type analysis here
+While overall, the revised Thomas High School data did not have much impact, it did on the individual school level. Originally, Thomas High School was the second highest overall passing school in the original data frame, but once the 9th graders were removed, the school fell to the 8th highest overall passing, falling from 90.95% to 65.08%. The removal of the 9th graders scores heavily impacted Thomas High School’s passing rate, but not enough to send them to the very bottom of the list which means that even without 9th grade’s inflated scores, Thomas’s high school students’ are not less likely to get a passing grade. 
 
 Original School Summary:
 ![image_name](Resources/school_summary_sorted_original.png)
