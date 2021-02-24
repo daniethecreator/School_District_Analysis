@@ -21,10 +21,10 @@ Revised District Summary:
 type analysis here
 
 Original School Summary:
-![image_name](Resources/summary_school_original.png)
+![image_name](Resources/school_summary_sorted_original.png)
 
 Revised District Summary:
-![image_name](Resources/School_Summary_Challenge.png)
+![image_name](Resources/school_summary_sorted_challenge.png)
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
