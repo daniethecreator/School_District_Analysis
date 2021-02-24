@@ -7,12 +7,17 @@ The purpose of this analysis was to replace the altered datat for Thomas High Sc
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
+![image_name](Resources/District_summary_challenge.png)
+![image_name](Resources/District_summary_original.png)
+
 ### How is the school summary affected?
+![image_name](Resources/School_Summary_Challenge.png)
+![image_name](Resources/summary_school_original.png)
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-### How does replacing the ninth-grade scores affect the following:
-### Math and reading scores by grade
-### Scores by school spending
-### Scores by school size
-### Scores by school type
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
