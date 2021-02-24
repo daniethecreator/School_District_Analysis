@@ -23,7 +23,7 @@ While overall, the revised Thomas High School data did not have much impact, it 
 Original School Summary:
 ![image_name](Resources/school_summary_sorted_original.png)
 
-Revised District Summary:
+Revised School Summary:
 ![image_name](Resources/school_summary_sorted_challenge.png)
 
 
