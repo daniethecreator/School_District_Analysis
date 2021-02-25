@@ -28,18 +28,22 @@ While overall, the revised Thomas High School data did not have much impact, it 
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  Type analysis here 
+**Math Scores by Grade** <br />
+In the original data frame, Thomas High School was third highest school among 9th graders. After the 9th graders were removed and the score was replaced with NaN, the lost their position.  The other grades for Thomas High School were not affected and they continue to be seventh place for 10th graders, fifth place for 11th graders and fourth place among 12th graders. While they do not have the very highest average for math scores by grade, they tend to be a school close to the median scores for each grade with the 12th graders being highest compared to the other schools, but the average math score for Thomas High School’ s 11th and 12th graders are nearly identical at 83.5 for both grades. <br />
   
-  **Math Scores by grade**  <br />
-    * Math Score by Grade Original <br />
+ 
+   * Math Score by Grade Original <br />
     ![image_name](Resources/Math_Score_by_Grade_Original.png)  <br />
-    * Math Score by Grade Challenge <br />
+   * Math Score by Grade Challenge <br />
   ![image_name](Resources/Math_Score_by_Grade_Challenge.png)  <br />
     
 
 
 
   **Reading Score by grade**  <br />
+  
+Thomas High School 9th graders had the fourth highest average among the schools before their data was cleaned out. Similar to the Math score averages, the other grades were not affected after the 9th grade data clean for Thomas. Thomas High School is tied with Caberera High School for the average reading score for 10th graders, but has the seventh highest average reading score for their 11th and 12th graders. This tells us that even though the Thomas High School 9th graders were helping increase Thomas’s overall position compared to other schools, their 10th grade reading scores are also contributing. 
+
    * Reading Score by Grade Original <br />
     ![image_name](Resources/Reading_Scores_by_Grade_Original.png)  <br />
    * Reading Score by Grade Challenge <br />
