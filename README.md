@@ -51,6 +51,9 @@ Thomas High School 9th graders had the fourth highest average among the schools 
 
   
  **Scores by school spending**  <br />
+ 
+ Although Thomas High School 9th graders were removed, the spending buckets included were large enough that the impact was minimal at best, affecting the hundreths of a decimal place.  Re-running the dataframe looked identical unless looking at it unformatted to spot the differences. I can confidentally say at a topline level that removing Thomas High School's 9th graders did not affect the scores by school spending. What I can tell from looking at the school by spend is that  Thomas High School was in the $630-644 range since that was the only row to show the hundredth decimal place changes. 
+ 
    * Original Scores by Spend <br />
      ![image_name](Resources/Scores_by_Spending_Original.png) <br />
    * Challenge Scores by Spend <br />
@@ -69,3 +72,5 @@ Thomas High School 9th graders had the fourth highest average among the schools 
      ![image_name](Resources/Scores_by_Type_Challenge.png) <br />
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+
