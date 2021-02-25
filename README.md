@@ -30,32 +30,36 @@ While overall, the revised Thomas High School data did not have much impact, it 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   Type analysis here 
   
-  **Original Math and Reading Scores by grade**
-  - ![image_name](Resources/Math_Score_by_Grade_Original.png)
-  - ![image_name](Resources/Reading_Scores_by_Grade_Original.png)
+  **Original Math and Reading Scores by grade**  <br />
+    * Math Score by Grade Original <br />
+    ![image_name](Resources/Math_Score_by_Grade_Original.png)  <br />
+    * Reading Score by Grade Original <br />
+    ![image_name](Resources/Reading_Scores_by_Grade_Original.png)  <br />
 
 
 
-  **Revised Math and Reading Score by grade**
-  - ![image_name](Resources/Math_Score_by_Grade_Challenge.png)
-  - ![image_name](Resources/Reading_Score_by_Grade_Challenge.png)
+  **Revised Math and Reading Score by grade**  <br />
+   * Math Score by Grade Challenge <br />
+  ![image_name](Resources/Math_Score_by_Grade_Challenge.png)  <br />
+   * Reading Score by Grade Challenge <br />
+  ![image_name](Resources/Reading_Score_by_Grade_Challenge.png) <br />
   
- **Scores by school spending**
+ **Scores by school spending**  <br />
     -Original Scores by Spend <br />
-     - ![image_name](Resources/Scores_by_Spending_Original.png) <br />
+     ![image_name](Resources/Scores_by_Spending_Original.png) <br />
     -Challenge Scores by Spend <br />
-     - ![image_name](Resources/Scores_by_Spend_Challenge.png) <br />
+     ![image_name](Resources/Scores_by_Spend_Challenge.png) <br />
 
-  **Scores by school size**
+  **Scores by school size**  <br />
     -Original Scores by Size <br />
-     - ![image_name](Resources/Scores_by_Size_Original.png) <br />
+     ![image_name](Resources/Scores_by_Size_Original.png) <br />
     -Challenge Scores by Size <br />
-     - ![image_name](Resources/Scores_by_School_Size_Challenge.png) <br />
+     ![image_name](Resources/Scores_by_School_Size_Challenge.png) <br />
      
-  **Scores by school type**
+  **Scores by school type**  <br />
     -Original Scores by Type <br />
-     - ![image_name](Resources/Schools_by_Type_Original.png) <br />
+     ![image_name](Resources/Schools_by_Type_Original.png) <br />
     -Challenge Scores by Type <br />
-     - ![image_name](Resources/Scores_by_Type_Challenge.png) <br />
+     ![image_name](Resources/Scores_by_Type_Challenge.png) <br />
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
