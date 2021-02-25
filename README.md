@@ -45,21 +45,21 @@ While overall, the revised Thomas High School data did not have much impact, it 
   ![image_name](Resources/Reading_Score_by_Grade_Challenge.png) <br />
   
  **Scores by school spending**  <br />
-    -Original Scores by Spend <br />
+    - Original Scores by Spend <br />
      ![image_name](Resources/Scores_by_Spending_Original.png) <br />
-    -Challenge Scores by Spend <br />
+    - Challenge Scores by Spend <br />
      ![image_name](Resources/Scores_by_Spend_Challenge.png) <br />
 
   **Scores by school size**  <br />
-    -Original Scores by Size <br />
+    - Original Scores by Size <br />
      ![image_name](Resources/Scores_by_Size_Original.png) <br />
-    -Challenge Scores by Size <br />
+    - Challenge Scores by Size <br />
      ![image_name](Resources/Scores_by_School_Size_Challenge.png) <br />
      
   **Scores by school type**  <br />
-    -Original Scores by Type <br />
+    - Original Scores by Type <br />
      ![image_name](Resources/Schools_by_Type_Original.png) <br />
-    -Challenge Scores by Type <br />
+    - Challenge Scores by Type <br />
      ![image_name](Resources/Scores_by_Type_Challenge.png) <br />
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
